@@ -5,3 +5,19 @@
     </a>
   </li>
 -->
+{% if author.researchgate %}
+    <li>
+      <a href="https://www.researchgate.net/profile/{{ author.researchgate }}" itemprop="sameAs">
+        <i class="fab fa-fw fa-researchgate" aria-hidden="true"></i>Research Gate
+      </a>
+    </li>
+{% endif %}
+{% if author.googlescholar %}
+    <li>
+      <a href="https://scholar.google.com/citations?user={{ author.googlescholar }}" itemprop="sameAs">
+        <i class="svg-icon googlescholar" aria-hidden="true"></i>Research Gate
+      </a>
+    </li>
+{% endif %}
+
+
