@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Alexandre Bovet"
 title_separator          : "-"
 name                     : "Alexandre Bovet"
-description              : "Researcher investigating complex systems and complex networks."
+description              : "Researcher at investigating complex systems and complex networks."
 url                      : "https://alexbovet.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alexbovet/alexbovet.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "Alexandre Bovet"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher investigating complex systems and complex networks."
+  bio              : "Researcher at UCLouvain and UNamur investigating complex systems and complex networks."
   location         : "Brussels, Belgium"
-  email            :
+  email            : "alexandre.bovet(at)uclouvain.be"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -259,6 +259,8 @@ compress_html:
   ignore:
     envs: development
 
+include: ["_pages"]
+
 
 # Defaults
 defaults:
@@ -273,11 +275,9 @@ defaults:
       comments: # true
       share: true
       related: false
-
-include: ["_pages"]
-
-# Defaults
-defaults:
+      header:
+        image: /assets/images/header.jpg
+        caption: "[-](https://www.flickr.com/ajytojen)"
   # _pages
   - scope:
       path: ""
@@ -285,3 +285,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        image: /assets/images/header.jpg
+        caption: "[-](https://www.flickr.com/ajytojen)"
+
+
+

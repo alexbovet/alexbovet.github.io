@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: About
+classes: wide
+
 ---
 
 I am a physicist interested in [complex systems](https://en.wikipedia.org/wiki/Complex_systems). In particular,
