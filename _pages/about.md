@@ -5,8 +5,15 @@ classes: wide
 
 ---
 
-I am a physicist interested in [complex systems](https://en.wikipedia.org/wiki/Complex_systems). In particular,
-I am interested in temporal networks, diffusion in networks and the dynamics of social networks. 
+I am a physicist interested in [complex systems](https://en.wikipedia.org/wiki/Complex_systems) and in their 
+modelling using [complex networks](https://en.wikipedia.org/wiki/Complex_network).
+
+In particular, I am interested by the following topics:
+
+- Temporal networks: community detection, dynamics of social networks
+- Data science: opinion dynamics, information diffusion, causality
+- Stochastic processes: diffusion, continuous-time random walks, stable processes, non-Markovian systems
+
 
 I am currently a postdoctoral researcher in Belgium at the [Namur Center for Complex Systems](http://www.naxys.be/) of the University of Namur with [Prof. Renaud Lambiotte](http://xn.unamur.be/) and at the [Institute of Information and Communication Technologies, Electronics and Applied Mathematics](https://uclouvain.be/fr/node/2107) of the Université Catholique de Louvain with [Prof. Jean-Charles Delvenne](https://perso.uclouvain.be/jean-charles.delvenne/welcome.html).
 
