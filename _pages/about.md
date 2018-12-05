@@ -5,7 +5,7 @@ classes: wide
 
 ---
 
-I am a physicist interested in [complex systems](https://en.wikipedia.org/wiki/Complex_systems) and in their 
+I am a researcher interested in [complex systems](https://en.wikipedia.org/wiki/Complex_systems) and in their 
 modelling using [complex networks](https://en.wikipedia.org/wiki/Complex_network).
 I am interested in interdisciplinary approaches to answer biological and social questions using tools from 
 physics and data science.
