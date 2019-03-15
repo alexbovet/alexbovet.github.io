@@ -12,3 +12,6 @@ main:
   #   url: /sitemap/
   - title: "News"
     url: /news/
+    
+  - title: "Talks"
+    url: /talks/    
