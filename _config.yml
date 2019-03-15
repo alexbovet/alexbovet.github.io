@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Alexandre Bovet"
 title_separator          : "-"
 name                     : "Alexandre Bovet"
-description              : "Researcher at investigating complex systems and complex networks."
+description              : "Researcher investigating complex systems and complex networks."
 url                      : "https://alexbovet.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alexbovet/alexbovet.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Alexandre Bovet"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher at UCLouvain and UNamur investigating complex systems and complex networks."
+  bio              : "Researcher investigating complex systems and complex networks."
   location         : "Brussels, Belgium"
   email            : "alexandre.bovet(at)uclouvain.be"
   uri              :
