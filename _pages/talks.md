@@ -5,11 +5,23 @@ classes: wide
 
 ---
 
-**Invited** *Uncovering the dynamics and influence of fake and traditional news in Twitter*, 3rd workshop on the Understanding and Controlling of Complex Systems, 2019/03/18, KU Leuven, Belgium
+## Contributed and Invited Talks
 
-**Invited** *Spreading and influence of misinformation and traditional fact-based news in Twitter*, SopraSteria Cyber Security Agency, 2019/03/12, Brussels, Belgium
+### Upcoming
 
-**Invited** *Diffusion in complex systems: random walks, fast ions and fake news*,  Department of Mathematical Engineering, 2019/03/05, UCLouvain, Belgium
+*Dynamics and influence of misinformation and traditional fact-based news in Twitter*, International Conference on Computational Social Science (IC2S2), 2019/7/18-20, Amsterdam, Netherlands
+
+*Community detection in non-stationary temporal networks*, Higher-Order Models in Network Science Satellite @ NetSci2019, 2019/5/27-31, Burlington, Vermont, USA
+
+*Spreading and influence of misinformation and traditional fact-based news in Twitter*, NetSci2019, 2019/5/27-31, Burlington, Vermont, USA
+
+**Invited** *Uncovering the dynamics and influence of fake and traditional news in Twitter*, 3rd workshop on the Understanding and Controlling of Complex Systems, 2019/3/18, KU Leuven, Belgium
+
+### Past
+
+**Invited** *Spreading and influence of misinformation and traditional fact-based news in Twitter*, SopraSteria Cyber Security Agency, 2019/3/12, Brussels, Belgium
+
+**Invited** *Diffusion in complex systems: random walks, fast ions and fake news*,  Department of Mathematical Engineering, 2019/3/5, UCLouvain, Belgium
 
 *Spreading and influence of misinformation and traditional fact-based news in Twitter*, The 7th International Conference on Complex Networks and Their Applications, 2018/11/12, Cambridge, United Kingdom.
 
@@ -27,3 +39,12 @@ classes: wide
 
 *Investigation of fast in transport in TORPEX*, Annual Meeting of the Swiss and Austrian Physical Societies, 2011/6/15, Lausanne, Switzerland
 
+## Tutorials
+
+*Random walks in networks and community detections*, Winter Workshop on Complex Systems, 2019/2/6, Zakopane, Poland
+
+*Uncovering memory patterns in temporal networks with higher-order Markov models*, Complexity72h Workshop, 2018/5/9, IMT Lucca, Italy
+
+*Twitter Social Network and Sentiment Analysis*,The Graduate Center of the City University of New York, 2017/4/27, New York, USA
+
+*Non-diffusive transport, fractional diffusion equations, Lévy stable distributions and all that jazz*, Swiss Plasma Center PhD Seminar EPFL, 2014/4/2, Lausanne, Switzerland
