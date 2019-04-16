@@ -31,7 +31,7 @@ classes: wide
 
 **Invited** *Finding Network Influencers and Understanding Opinion Dynamics in Twitter*, [Network Science CTA Technical Meeting](http://www.ns-cta.org/ns-cta-blog/), 2017/5/1, Newark DE, USA
 
-*Uncovering the Dynamics of Twitter Opinion Leaders in the US 2016 elections*, [Conference on Complex Systems](www.ccs2016.org/), 2016/9/16, Amsterdam, The Netherlands
+*Uncovering the Dynamics of Twitter Opinion Leaders in the US 2016 elections*, [Conference on Complex Systems](http://www.ccs2016.org/), 2016/9/16, Amsterdam, The Netherlands
 
 *Non-diffusive suprathermal ion transport associated with blobs in TORPEX plasmas*, [56th Annual Meeting of the APS Division of Plasma Physics](https://meetings.aps.org/Meeting/DPP14/Content/2782), 2014/10/27, New Orleans LA, USA
 
@@ -40,6 +40,8 @@ classes: wide
 *Investigation of fast in transport in TORPEX*, [Annual Meeting of the Swiss and Austrian Physical Societies](https://www.sps.ch/en/events/joint_annual_meeting_2011/), 2011/6/15, Lausanne, Switzerland
 
 ## Tutorials
+
+*Influence of fake news in Twitter during the 2016 US presidential election*, [ICTEAM Tutorial Seminar](https://uclouvain.be/en/research-institutes/icteam), 2019/3/25, Louvain-la-Neuve, Belgium
 
 *Random walks in networks and community detections*, [Winter Workshop on Complex Systems](http://wwcs2019.org/), 2019/2/6, Zakopane, Poland
 
@@ -51,7 +53,7 @@ classes: wide
 
 ## Science Outreach
 
-*Diffusion et influence des fake news sur Twitter*, [Friweek: manipulation de l'information](www.friweek.ch), Chambre de commerce et d'industrie du canton de Fribourg (CCIF), 2019/5/15, , Fribourg, Switzerland.
+*Diffusion et influence des fake news sur Twitter*, [Friweek: manipulation de l'information](https://www.friweek.ch), Chambre de commerce et d'industrie du canton de Fribourg (CCIF), 2019/5/15, , Fribourg, Switzerland.\
 
 *Understanding the influence of fake news on Twitter*, [DataBeers Brussels](https://databeers.brussels/), 2018/10/3, Brussels, Belgium
 
