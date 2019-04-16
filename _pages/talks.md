@@ -53,7 +53,7 @@ classes: wide
 
 ## Science Outreach
 
-*Diffusion et influence des fake news sur Twitter*, [Friweek: manipulation de l'information](https://www.friweek.ch), Chambre de commerce et d'industrie du canton de Fribourg (CCIF), 2019/5/15, , Fribourg, Switzerland.\
+*Diffusion et influence des fake news sur Twitter*, [Friweek: manipulation de l'information](https://www.friweek.ch), Chambre de commerce et d'industrie du canton de Fribourg (CCIF), 2019/5/15, Fribourg, Switzerland
 
 *Understanding the influence of fake news on Twitter*, [DataBeers Brussels](https://databeers.brussels/), 2018/10/3, Brussels, Belgium
 
