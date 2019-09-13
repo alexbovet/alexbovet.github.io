@@ -11,7 +11,7 @@ classes: wide
 
 **Invited** *Community detection in non-stationary temporal networks: Application to a wild mice population*, [University of Zurich, Animal Behavior Research Group](https://www.ieu.uzh.ch/en/staff/member/koenig_barbara.html), 2019/9/9, Zurich, Switzerland
 
-**Invited** *Diffusion in complex systems: fake news and random walks*, [EPFL (Data Science Lab)](https://memento.epfl.ch/event/diffusion-in-networks-fake-news-and-random-walks/), 2019/9/6, Lausanne, Switzerland
+**Invited** *Diffusion in complex systems: fake news and random walks*, [EPFL](https://memento.epfl.ch/event/diffusion-in-networks-fake-news-and-random-walks/) [Data Science Lab](https://dlab.epfl.ch/), 2019/9/6, Lausanne, Switzerland
 
 **Invited** *Diffusion in complex systems: fake news and random walks*, [Swiss Plasma Center Seminar](https://spc.epfl.ch/), 2019/9/2, Lausanne, Switzerland
 
