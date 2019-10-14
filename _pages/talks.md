@@ -9,6 +9,14 @@ classes: wide
 
 ### Upcoming and recent
 
+Community detection in non-stationary temporal networks, [The 8th International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/), 2019/12/10-12, Lisbon, Portugal 
+
+**Invited** *Investigating the dynamics of complex networks: bitcoin transactions network and temporal community detection*, [Chair of Statistical Field Theory Seminar, EPFL](https://www.epfl.ch/labs/csft/), 2019/10/7, Lausanne, Switzerland
+
+**Invited** *Diffusion in networks: fake news and anomaly detection*, [Information and Networks Dynamics Laboratory, EPFL](https://indy.epfl.ch/), 2019/10/4, Lausanne, Switzerland
+
+### Past
+
 **Invited** *Community detection in non-stationary temporal networks: Application to a wild mice population*, [University of Zurich, Animal Behavior Research Group](https://www.ieu.uzh.ch/en/staff/member/koenig_barbara.html), 2019/9/9, Zurich, Switzerland
 
 **Invited** *Diffusion in complex systems: fake news and random walks*, [EPFL](https://memento.epfl.ch/event/diffusion-in-networks-fake-news-and-random-walks/) [Data Science Lab](https://dlab.epfl.ch/), 2019/9/6, Lausanne, Switzerland
@@ -21,7 +29,6 @@ classes: wide
 
 *Spreading and influence of misinformation and traditional fact-based news in Twitter*, [NetSci2019](http://netsci2019.com/), 2019/5/27-31, Burlington, Vermont, USA
 
-### Past
 
 **Invited** *Uncovering the dynamics and influence of fake and traditional news in Twitter*, [3rd workshop on the Understanding and Controlling of Complex Systems](https://wms.cs.kuleuven.be/ucocos/events/3rd-ucocos-workshop-monday-18-march-2019-leuven-belgium), 2019/3/18, KU Leuven, Belgium
 
