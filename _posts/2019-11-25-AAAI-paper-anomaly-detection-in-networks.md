@@ -4,7 +4,7 @@ title: AAAI paper on anomaly detection in attributed networks.
 
 Our work with Leonardo Gutierrez Gomez and Jean-Charles Delvenne on anomaly detection in attributed networks was accepted for the [34th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/) that will take place in New York in February 2020.
 
-Here is the abstract of our paper:
+The paper is on [arXiv](https://arxiv.org/abs/1912.04144) and here is its abstract:
 
 Many social and economic systems can be represented as attributed networks encoding the relations between entities who are themselves described by different node attributes. Finding anomalies in these systems is crucial for detecting abuses such as credit card frauds, web spams or network intrusions. Intuitively, anomalous nodes are defined as nodes whose attributes differ starkly from the attributes of a certain set of nodes of reference, called the context of the anomaly.
 While some methods have proposed to spot anomalies locally, globally or within a community context, the problem remain challenging due to the multi-scale composition of real networks and the heterogeneity of node metadata. Here, we propose a principled way to uncover outlier nodes simultaneously with the context with respect to which they are anomalous, at all relevant scales of the network.
