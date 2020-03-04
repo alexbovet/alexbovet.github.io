@@ -9,13 +9,15 @@ classes: wide
 
 ### Upcoming and recent
 
+**Invited** Diffusion in social networks, [Computational Social Science team](https://cmb.huma-num.fr/) seminars, Centre Marc Bloch, 2020/04/21, Berlin, Germany
+
+### Past
+
 Community detection in non-stationary temporal networks, [The 8th International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/), 2019/12/10-12, Lisbon, Portugal 
 
 **Invited** *Investigating the dynamics of complex networks: bitcoin transactions network and temporal community detection*, [Chair of Statistical Field Theory Seminar, EPFL](https://www.epfl.ch/labs/csft/), 2019/10/7, Lausanne, Switzerland
 
 **Invited** *Diffusion in networks: fake news and anomaly detection*, [Information and Networks Dynamics Laboratory, EPFL](https://indy.epfl.ch/), 2019/10/4, Lausanne, Switzerland
-
-### Past
 
 **Invited** *Community detection in non-stationary temporal networks: Application to a wild mice population*, [University of Zurich, Animal Behavior Research Group](https://www.ieu.uzh.ch/en/staff/member/koenig_barbara.html), 2019/9/9, Zurich, Switzerland
 
