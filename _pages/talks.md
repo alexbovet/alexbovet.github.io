@@ -9,7 +9,9 @@ classes: wide
 
 ### Upcoming and recent
 
-**Invited** Diffusion in social networks, [Computational Social Science team](https://cmb.huma-num.fr/) seminars, Centre Marc Bloch, 2020/04/21, Berlin, Germany
+Bringing Meaning into the Model: Opinion Dynamics as Associative Diffusion, [International Conference on Computational Social Science (IC2S2)](https://ic2s2.mit.edu/) Online conference, July 2020, with Anna Keuchenius, Mikołaj Biesaga, Irene Malvestio, Chico Camargo, Lea Hildebrandt and Sabin Roman.
+
+**Invited** Diffusion in social networks, [Computational Social Science team](https://cmb.huma-num.fr/) seminars, Centre Marc Bloch, 2020/04/21, Berlin, Germany (postponed due to COVID-19).
 
 ### Past
 
