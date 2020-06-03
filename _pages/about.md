@@ -17,7 +17,7 @@ In particular, I am interested by the following topics:
 - Data science: clustering algorithms for dynamical data, opinion mining, causality discovery
 
 
-I am currently a Postdoctoral Research Assistant at the [Mathematical Institute](https://www.maths.ox.ac.uk/) at Oxford University, in the [Mathematical Data Science group](https://www.maths.ox.ac.uk/groups/data-science) with [Prof. Peter Grindrod](https://www.maths.ox.ac.uk/people/peter.grindrod).
+I am currently a Postdoctoral Research Associate at the [Mathematical Institute](https://www.maths.ox.ac.uk/) at Oxford University, in the [Mathematical Data Science group](https://www.maths.ox.ac.uk/groups/data-science) with [Prof. Peter Grindrod](https://www.maths.ox.ac.uk/people/peter.grindrod).
 
 Before that, I was a [SNSF Advanced Postdoctoral Fellow](http://www.snf.ch/en/funding/careers/postdoc-mobility/Pages/default.aspx) at the [Mathematical Engineering department (INMA, ICTEAM)](https://uclouvain.be/fr/node/2107) of the Université Catholique de Louvain with [Prof. Jean-Charles Delvenne](https://perso.uclouvain.be/jean-charles.delvenne/welcome.html) and at the [Namur Center for Complex Systems](http://www.naxys.be/)/[Mathematical Institute of the University of Oxford](https://www.maths.ox.ac.uk/) with [Prof. Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte) working on temporal networks.
 I was also a [SNSF Early Postdoctoral Fellow](http://www.snf.ch/en/funding/careers/early-postdoc-mobility/Pages/default.aspx) at the Levich Institute of the City College of New York, USA, with [Prof. Hernan Makse](http://www-levich.engr.ccny.cuny.edu/webpage/hmakse/research/), working on the diffusion of information and opinion dynamics in social networks.
