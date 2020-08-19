@@ -15,11 +15,11 @@ Ipython notebooks for reproducing the [toy example](https://github.com/leoguti85
 
 ## Twitter Analysis
 
-These softwares: https://github.com/DocNow/hydrator, https://github.com/DocNow/twarc and http://www.tweepy.org/ can be used to “rehydrate” the tweet_IDs, i.e. download the full tweet objects using the tweet_IDs.
+These softwares: [hydrator](https://github.com/DocNow/hydrator), [twarc](https://github.com/DocNow/twarc) and [tweepy](http://www.tweepy.org/) can be used to “rehydrate” the tweet_IDs, i.e. download the full tweet objects using the tweet_IDs.
 
 See also Hernan Makse's [website](https://hmakse.ccny.cuny.edu/twitter-analysis/).
 
-# fake news influence
+### Fake news influence
 
 This dataset contains the retweet networks and the tweet IDs that have a URL directing toward a news outlet website of the corresponding media category.
 
@@ -32,7 +32,7 @@ The code used for the analysis of this dataset is available [here](https://githu
 
 The curated list of website spreading fake and extremely biased news used in our paper is available [here](https://github.com/alexbovet/opensources).
 
-# Opinion mining
+### Opinion mining
 
 This dataset contains the tweet IDs of 170 million tweets from 11 million users posting about the election between June 1st 2016 until November 9th 2016.
 
@@ -45,7 +45,7 @@ The code of algorithm that we developed is available [here](https://github.com/a
 the following [ipython notebook](https://github.com/alexbovet/twitter_opinion_mining/blob/master/Twitter_opinion_mining_example_run.ipynb) explains how to use it.
 
 
-# Twitter social network and sentiment analysis
+### Twitter social network and sentiment analysis
 
 You will find [here](https://github.com/alexbovet/network_lesson) the ipython notebooks for the lecture I gave at  [The Graduate Center of the City University of New York](https://gc.cuny.edu/Home) in 2017.
 
