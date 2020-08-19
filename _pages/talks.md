@@ -11,7 +11,7 @@ classes: wide
 
 **Invited** Diffusion in social networks, [Computational Social Science team](https://cmb.huma-num.fr/) seminars, Centre Marc Bloch, 2020/04/21, Berlin, Germany (postponed due to COVID-19).
 
-Flow stability for community detection in non-stationary temporal networks, NetSci2020, 2020/9/17-25, Rome, Italy (online).
+Flow stability for community detection in non-stationary temporal networks, [NetSci2020](https://netsci2020.netscisociety.net/), 2020/9/17-25, Rome, Italy (online).
 
 
 ### Past
