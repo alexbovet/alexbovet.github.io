@@ -9,11 +9,14 @@ classes: wide
 
 ### Upcoming and recent
 
-Bringing Meaning into the Model: Opinion Dynamics as Associative Diffusion, [International Conference on Computational Social Science (IC2S2)](https://ic2s2.mit.edu/) Online conference, July 2020, with Anna Keuchenius, Mikołaj Biesaga, Irene Malvestio, Chico Camargo, Lea Hildebrandt and Sabin Roman.
-
 **Invited** Diffusion in social networks, [Computational Social Science team](https://cmb.huma-num.fr/) seminars, Centre Marc Bloch, 2020/04/21, Berlin, Germany (postponed due to COVID-19).
 
+Flow stability for community detection in non-stationary temporal networks, NetSci2020, 2020/9/17-25, Rome, Italy (online).
+
+
 ### Past
+
+Bringing Meaning into the Model: Opinion Dynamics as Associative Diffusion, [International Conference on Computational Social Science (IC2S2)](https://ic2s2.mit.edu/) Online conference, July 2020, with Anna Keuchenius, Mikołaj Biesaga, Irene Malvestio, Chico Camargo, Lea Hildebrandt and Sabin Roman.
 
 Community detection in non-stationary temporal networks, [The 8th International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/), 2019/12/10-12, Lisbon, Portugal 
 
