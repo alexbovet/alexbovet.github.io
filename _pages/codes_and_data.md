@@ -5,6 +5,7 @@ classes: wide
 
 ---
 
+
 ## Anomaly detection
 
 The code for our algorithm MADAN published in the paper: Gutiérrez-Gómez, L. Bovet, A. & Delvenne, J.-C. [Multi-scale Anomaly Detection on Attributed Networks](https://aaai.org/ojs/index.php/AAAI/article/view/5409).
@@ -49,5 +50,5 @@ the following [ipython notebook](https://github.com/alexbovet/twitter_opinion_mi
 
 You will find [here](https://github.com/alexbovet/network_lesson) the ipython notebooks for the lecture I gave at  [The Graduate Center of the City University of New York](https://gc.cuny.edu/Home) in 2017.
 
-
+The notebooks also cover the basics about how to use tweepy to connect to the Twitter API and collect tweets.
 
