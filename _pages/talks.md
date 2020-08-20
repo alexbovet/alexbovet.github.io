@@ -73,6 +73,8 @@ Community detection in non-stationary temporal networks, [The 8th International 
 
 ## Science Outreach
 
+*Investigating fake news and their influence in social media*. AI4Belgium & Data Science Community Meetup, 2019/11/28, Brussels, Belgium.
+
 *Diffusion et influence des fake news sur Twitter*, [Friweek: manipulation de l'information](https://www.friweek.ch), Chambre de commerce et d'industrie du canton de Fribourg (CCIF), 2019/5/15, Fribourg, Switzerland
 
 *Understanding the influence of fake news on Twitter*, [DataBeers Brussels](https://databeers.brussels/), 2018/10/3, Brussels, Belgium
