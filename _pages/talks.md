@@ -9,10 +9,11 @@ classes: wide
 
 ### Upcoming and recent
 
+Flow stability for community detection in non-stationary temporal networks, [NetSci2020](https://netsci2020.netscisociety.net/), 2020/9/25, Rome, Italy (online)
+
+Multi-scale Anomaly Detection on Attributed Networks, [Machine Learning in Network Science Satellite @ Netsci2020](https://mlns20.tumblr.com/), 2020/9/18, Rome, Italy (online)
+
 **Invited** Diffusion in social networks, [Computational Social Science team](https://cmb.huma-num.fr/) seminars, Centre Marc Bloch, 2020/04/21, Berlin, Germany (postponed due to COVID-19).
-
-Flow stability for community detection in non-stationary temporal networks, [NetSci2020](https://netsci2020.netscisociety.net/), 2020/9/17-25, Rome, Italy (online).
-
 
 ### Past
 
