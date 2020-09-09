@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<svg width="960" height="600"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="http://d3js.org/d3-selection-multi.v1.js"></script>
+<script>
+
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+
+var nodeMaxSize = 15;
+var nodeMinSize = 5;
+        
+var nodeMaxColor = "#633517";
+var nodeMinColor = "#ED8E53";
+
+var markerSize = 7;
+
+var linkStroke = "#999";
+var linkOpacity = 0.5;
+var linkWidth = "1px";
+
+var nodeStrokeColor = "#000";
+var nodeStrokeWidth = "0px";
+
+
+var textFont = "FreeSans";
+var fontSize = "15px";
+var textColor = "#000";
+
+// creates arrow head svg shape
+svg.append('defs').append('marker')
+    .attrs({'id':'arrowhead',
+        'viewBox':'-0 -5 10 10',
+        'refX':15,
+        'refY':0,
+        'orient':'auto',
+        'markerWidth':markerSize,
+        'markerHeight':markerSize,
+        'xoverflow':'visible'})
+    .append('svg:path')
+    .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
+    .attr('fill', linkStroke)
+    .style('stroke','none');
+
+
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id((d) => d.id))
+    .force("charge", d3.forceManyBody().strength(-100))
+    .force("center", d3.forceCenter(width / 2, height / 2));
+    
+
+d3.json("britainfirst_graph.json", function(error, graph) {
+  if (error) throw error;
+
+    // node size scale
+    var nodeScale = d3.scaleSqrt()
+            .domain([d3.min(graph.nodes, function(d) { return d.k_out; }),
+                     d3.max(graph.nodes, function(d) { return d.k_out; })])
+            .range([nodeMinSize, nodeMaxSize]);
+            
+    // node color scale
+    var nodeColor = d3.scaleLinear()
+            .domain([d3.min(graph.nodes, function(d) { return d.k_out; }),
+                     d3.max(graph.nodes, function(d) { return d.k_out; })])
+            .range([nodeMinColor, nodeMaxColor]);
+            
+    // avoid node overlap
+    simulation.force("collision", d3.forceCollide(function(d) { return nodeScale(d.k_out); }));
+  
+
+  
+    var link = svg.append("g")
+        .attr("class", "links")
+        .selectAll("line")
+        .data(graph.links)
+        .enter().append("line")
+        .attr('marker-end','url(#arrowhead)')
+        .attr("stroke", linkStroke)
+        .attr("stroke-width", linkWidth)
+        .attr("opacity", linkOpacity);
+
+    var node = svg.append("g")
+        .attr("class", "nodes")
+        .selectAll("circle")
+        .data(graph.nodes)
+        .enter().append("circle")
+        .attr("r", function(d) { return nodeScale(d.k_out); })
+        .attr("fill", function(d) { return nodeColor(d.k_out); })
+        .attr("stroke", "none")
+        .call(d3.drag()
+            .on("start", dragstarted)
+            .on("drag", dragged)
+            .on("end", dragended));
+
+    node.append("title")
+        .text(function(d) { return d.type; });
+
+        
+//     var labels = svg.selectAll(null)
+//         .data(graph.nodes)
+//         .enter()
+//         .append("text")
+//         .text(function (d) { if (d.CIoutrank <= 10) { return d.CIoutrank;} })
+//         .attr("fill", textColor)
+//         .style("text-anchor", "middle")
+//         .style("font-family", textFont)
+//         .style("font-size", fontSize);
+        
+        
+        
+        
+        
+//     var ranks = svg.selectAll(null)
+//         .data(graph.nodes)
+//         .enter()
+//         .append("text")
+//         .text(function (d) { if (d.CIoutrank <= 10) { return d.CIoutrank + " " + d.username;} })
+//         .attr("x", width/10)
+//         .attr("y", function (d) { return height/5 + d.CIoutrank*20;} )
+//         .attr("fill", textColor)
+//         .style("font-family", textFont)
+//         .style("font-size", fontSize);
+      
+    simulation
+        .nodes(graph.nodes)
+        .on("tick", ticked)
+        .alphaDecay(0);
+
+    simulation.force("link")
+        .links(graph.links);
+
+    function ticked() {
+        link
+            .attr("x1", function(d) { return d.source.x; })
+            .attr("y1", function(d) { return d.source.y; })
+            .attr("x2", function(d) { return d.target.x; })
+            .attr("y2", function(d) { return d.target.y; });
+
+        node
+            .attr("cx", function(d) { return d.x; })
+            .attr("cy", function(d) { return d.y; });
+            
+//         labels
+//             .attr("x", function(d){ return d.x; })
+//             .attr("y", function (d) {return d.y - nodeScale(d.k_out)-1; });
+    }
+});
+
+
+function dragstarted(d) {
+  d.fx = null;
+  d.fy = null;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+</script>
