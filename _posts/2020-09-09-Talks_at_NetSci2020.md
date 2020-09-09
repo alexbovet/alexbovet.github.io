@@ -1,5 +1,5 @@
 ---
-title: ERCIM News on Anomaly Detection
+title: Talks at NetSci2020
 ---
 
 I will have the pleasure to give two talks at the Network Science conference [NetSci2020](https://netsci2020.netscisociety.net/) which will be online this year.
