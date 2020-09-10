@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 
-<svg width="960" height="600"></svg>
+<svg width="1090" height="1090"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/d3-selection-multi.v1.js"></script>
 <script>
@@ -20,8 +20,12 @@ var nodeMinColor = "#ED8E53";
 var markerSize = 7;
 
 var linkStroke = "#999";
-var linkOpacity = 0.5;
+var linkOpacity = 0.25;
 var linkWidth = "1px";
+var linkWidthHighlight = "2px";
+var linkStrokeDownlight = "#D0D0D0";
+var linkStrokeHighlightOut = "#D35D00";
+var linkStrokeHighlightIn = "#D300B3";
 
 var nodeStrokeColor = "#000";
 var nodeStrokeWidth = "0px";
@@ -89,7 +93,7 @@ d3.json("britainfirst_graph.json", function(error, graph) {
         .data(graph.nodes)
         .enter().append("circle")
         .attr("r", function(d) { return nodeScale(d.k_out); })
-        .attr("fill", function(d) { return nodeColor(d.k_out); })
+        .attr("fill", ColorType)
         .attr("stroke", "none")
         .call(d3.drag()
             .on("start", dragstarted)
@@ -97,7 +101,7 @@ d3.json("britainfirst_graph.json", function(error, graph) {
             .on("end", dragended));
 
     node.append("title")
-        .text(function(d) { return d.type; });
+        .text(function(d) { return d.type + ': ' + d.id; });
 
         
 //     var labels = svg.selectAll(null)
@@ -128,7 +132,7 @@ d3.json("britainfirst_graph.json", function(error, graph) {
     simulation
         .nodes(graph.nodes)
         .on("tick", ticked)
-        .alphaDecay(0);
+        .alphaDecay(0.3);
 
     simulation.force("link")
         .links(graph.links);
@@ -148,6 +152,52 @@ d3.json("britainfirst_graph.json", function(error, graph) {
 //             .attr("x", function(d){ return d.x; })
 //             .attr("y", function (d) {return d.y - nodeScale(d.k_out)-1; });
     }
+    
+    // Add the highlighting functionality
+    node
+      .on('mouseover', function (d) {
+        // Highlight the nodes: 
+        
+    
+        // set all nodes to gray
+        node.style('fill', "#B8B8B8")    
+    
+        // set connected nodes to bigger
+        node
+            .each(function(n) {
+                for (let index = 0; index < graph.links.length; index++) {
+                    const element = graph.links[index];
+                    if (element.source.id == d.id && element.target.id == n.id) {
+                        d3.select(this).style("fill", ColorType);
+                        return;
+                    }
+                }
+                });
+
+
+        d3.select(this).style('fill', '#480B20')
+        // Highlight the connections
+        link
+          .style('stroke', function (link_d) { 
+                                    if (link_d.source.id === d.id) {
+                                        return linkStrokeHighlightOut;
+                                        }
+                                    else if (link_d.target.id === d.id) {
+                                        return linkStrokeHighlightIn;
+                                        }
+                                    else {
+                                        return linkStroke;
+                                        }
+                                    })
+          .style('stroke-width', function (link_d) { return (link_d.source.id === d.id || link_d.target.id === d.id) ? linkWidthHighlight : linkWidth;})
+      })
+      .on('mouseout', function (d) {
+        node.style('fill', ColorType)
+        link
+          .style('stroke', linkStroke)
+          .style('stroke-width', linkWidth)
+      })
+      
 });
 
 
@@ -164,6 +214,14 @@ function dragged(d) {
 function dragended(d) {
   d.fx = d3.event.x;
   d.fy = d3.event.y;
+}
+
+function ColorType(d)
+{
+  if (d.type == "channel") { return "#B30F25";}
+  if (d.type == "chat"){ return "#7E0F66";}
+  if (d.type == "ext_website"){ return "#0F7DB3";}
+  if (d.type == "post"){ return "#238D27";}
 }
 
 </script>
