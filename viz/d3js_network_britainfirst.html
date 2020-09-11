@@ -14,13 +14,10 @@ var svg = d3.select("svg"),
 var nodeMaxSize = 15;
 var nodeMinSize = 5;
         
-var nodeMaxColor = "#633517";
-var nodeMinColor = "#ED8E53";
-
 var markerSize = 7;
 
 var linkStroke = "#999";
-var linkOpacity = 0.25;
+var linkOpacity = 0.5;
 var linkWidth = "1px";
 var linkWidthHighlight = "2px";
 var linkStrokeDownlight = "#D0D0D0";
@@ -67,10 +64,10 @@ d3.json("britainfirst_graph.json", function(error, graph) {
             .range([nodeMinSize, nodeMaxSize]);
             
     // node color scale
-    var nodeColor = d3.scaleLinear()
-            .domain([d3.min(graph.nodes, function(d) { return d.k_out; }),
-                     d3.max(graph.nodes, function(d) { return d.k_out; })])
-            .range([nodeMinColor, nodeMaxColor]);
+//     var nodeColor = d3.scaleLinear()
+//             .domain([d3.min(graph.nodes, function(d) { return d.k_out; }),
+//                      d3.max(graph.nodes, function(d) { return d.k_out; })])
+//             .range([nodeMinColor, nodeMaxColor]);
             
     // avoid node overlap
     simulation.force("collision", d3.forceCollide(function(d) { return nodeScale(d.k_out); }));
@@ -162,12 +159,12 @@ d3.json("britainfirst_graph.json", function(error, graph) {
         // set all nodes to gray
         node.style('fill', "#B8B8B8")    
     
-        // set connected nodes to bigger
+        // set connected nodes to normal color
         node
             .each(function(n) {
                 for (let index = 0; index < graph.links.length; index++) {
                     const element = graph.links[index];
-                    if (element.source.id == d.id && element.target.id == n.id) {
+                    if ((element.source.id == d.id && element.target.id == n.id) || (element.target.id == d.id && element.source.id == n.id)) {
                         d3.select(this).style("fill", ColorType);
                         return;
                     }
