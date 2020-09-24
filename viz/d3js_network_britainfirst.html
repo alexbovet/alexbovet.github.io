@@ -98,7 +98,7 @@ d3.json("britainfirst_graph.json", function(error, graph) {
             .on("end", dragended));
 
     node.append("title")
-        .text(function(d) { return d.type + ': ' + d.id; });
+        .text(function(d) { return d.type + ': ' + d.name; });
 
         
 //     var labels = svg.selectAll(null)
