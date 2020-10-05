@@ -105,7 +105,7 @@ author:
   name             : "Alexandre Bovet"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Researcher investigating complex systems and complex networks."
-  location         : "Brussels, Belgium"
+  location         : "Oxford, UK"
   #email            : "https://www.maths.ox.ac.uk/people/alexandre.bovet/contact"
   uri              : "https://www.maths.ox.ac.uk/people/alexandre.bovet"
   home             : # null (default), "absolute or relative url to link to author home"
