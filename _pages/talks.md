@@ -9,13 +9,15 @@ classes: wide
 
 ### Upcoming and recent
 
-Flow stability for community detection in non-stationary temporal networks, [NetSci2020](https://netsci2020.netscisociety.net/), 2020/9/25, Rome, Italy (online)
-
-Multi-scale Anomaly Detection on Attributed Networks, [Machine Learning in Network Science Satellite @ Netsci2020](https://mlns20.tumblr.com/), 2020/9/18, Rome, Italy (online)
+Multi-scale Anomaly Detection on Attributed Networks, [The 9th International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/), 2020/12/1-3, Madrid, Spain (online).
 
 **Invited** Diffusion in social networks, [Computational Social Science team](https://cmb.huma-num.fr/) seminars, Centre Marc Bloch, 2020/04/21, Berlin, Germany (postponed due to COVID-19).
 
 ### Past
+
+Flow stability for community detection in non-stationary temporal networks, [NetSci2020](https://netsci2020.netscisociety.net/), 2020/9/25, Rome, Italy (online)
+
+Multi-scale Anomaly Detection on Attributed Networks, [Machine Learning in Network Science Satellite @ Netsci2020](https://mlns20.tumblr.com/), 2020/9/18, Rome, Italy (online)
 
 Bringing Meaning into the Model: Opinion Dynamics as Associative Diffusion, [International Conference on Computational Social Science (IC2S2)](https://ic2s2.mit.edu/) Online conference, July 2020, with Anna Keuchenius, Mikołaj Biesaga, Irene Malvestio, Chico Camargo, Lea Hildebrandt and Sabin Roman.
 
@@ -73,6 +75,8 @@ Community detection in non-stationary temporal networks, [The 8th International 
 *Non-diffusive transport, fractional diffusion equations, Lévy stable distributions and all that jazz*, [Swiss Plasma Center](https://spc.epfl.ch/) PhD Seminar EPFL, 2014/4/2, Lausanne, Switzerland
 
 ## Science Outreach
+
+*Demande   d’établissement   d’un   rapport   d’information   concernant   la   nécessaire   collaboration  entre  l’autorité  fédérale  et  les   Communautés   en   matière   de   lutte   contre les infox (fake news)*, Audition by the Belgian Senate for the preparation of a report about the fight against fake news. [Belgian Senate](https://www.senate.be/www/webdriver?MItabObj=pdf&MIcolObj=pdf&MInamObj=pdfid&MItypeObj=application/pdf&MIvalObj=117440622), 2020/11/09, Brussels, Belgium.
 
 *Investigating fake news and their influence in social media*. AI4Belgium & Data Science Community Meetup, 2019/11/28, Brussels, Belgium.
 
