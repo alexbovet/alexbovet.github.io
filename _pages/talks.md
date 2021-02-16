@@ -9,11 +9,17 @@ classes: wide
 
 ### Upcoming and recent
 
-Multi-scale Anomaly Detection on Attributed Networks, [The 9th International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/), 2020/12/1-3, Madrid, Spain (online).
+**Invited** [Oxford Mathematical Institute Networks Seminar](https://www.maths.ox.ac.uk/groups/networks/networks-seminar), 2012/4/25, Oxford, UK (online)
+
+**Invited** [North Meets South Oxford Mathematical Institute colloquia](https://www.maths.ox.ac.uk/node/38067), 2012/3/12, Oxford, UK (online)
+
+**Invited** Investigating misinformation and extremism in online social networks, [Oxford-Warwick-Edinburgh Network Science Workshop](https://warwick.ac.uk/fac/sci/maths/research/miraw/days/owenetsci), 2021/2/15, Warwick, UK (online)
 
 **Invited** Diffusion in social networks, [Computational Social Science team](https://cmb.huma-num.fr/) seminars, Centre Marc Bloch, 2020/04/21, Berlin, Germany (postponed due to COVID-19).
 
 ### Past
+
+Multi-scale Anomaly Detection on Attributed Networks, [The 9th International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/), 2020/12/1-3, Madrid, Spain (online).
 
 Flow stability for community detection in non-stationary temporal networks, [NetSci2020](https://netsci2020.netscisociety.net/), 2020/9/25, Rome, Italy (online)
 
