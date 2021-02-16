@@ -9,9 +9,9 @@ classes: wide
 
 ### Upcoming and recent
 
-**Invited** [Oxford Mathematical Institute Networks Seminar](https://www.maths.ox.ac.uk/groups/networks/networks-seminar), 2012/4/25, Oxford, UK (online)
+**Invited** [Oxford Mathematical Institute Networks Seminar](https://www.maths.ox.ac.uk/groups/networks/networks-seminar), 2021/4/25, Oxford, UK (online)
 
-**Invited** [North Meets South Oxford Mathematical Institute colloquia](https://www.maths.ox.ac.uk/node/38067), 2012/3/12, Oxford, UK (online)
+**Invited** [North Meets South Oxford Mathematical Institute colloquia](https://www.maths.ox.ac.uk/node/38067), 2021/3/12, Oxford, UK (online)
 
 **Invited** Investigating misinformation and extremism in online social networks, [Oxford-Warwick-Edinburgh Network Science Workshop](https://warwick.ac.uk/fac/sci/maths/research/miraw/days/owenetsci), 2021/2/15, Warwick, UK (online)
 
