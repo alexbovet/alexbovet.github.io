@@ -9,13 +9,15 @@ classes: wide
 
 ### Upcoming and recent
 
-**Invited** [Oxford Mathematical Institute Networks Seminar](https://www.maths.ox.ac.uk/groups/networks/networks-seminar), 2021/5/25, Oxford, UK (online)
-
-Flow stability for dynamic community detection, [CompleNet 2021](https://complenet.weebly.com/), 2021/4/24-26, online.
+Flow stability for dynamic community detection, [ComNet@Networks2021](https://hocinecherifi.wixsite.com/comnets2021/), 2021/7/1, online.
 
 **Invited** Diffusion in social networks, [Computational Social Science team](https://cmb.huma-num.fr/) seminars, Centre Marc Bloch, 2020/04/21, Berlin, Germany (postponed due to COVID-19).
 
 ### Past
+
+**Invited** [Oxford Mathematical Institute Networks Seminar](https://www.maths.ox.ac.uk/groups/networks/networks-seminar), 2021/5/25, Oxford, UK (online)
+
+Flow stability for dynamic community detection, [CompleNet 2021](https://complenet.weebly.com/), 2021/4/24-26, online.
 
 **Invited** [North Meets South Oxford Mathematical Institute colloquia](https://www.maths.ox.ac.uk/node/38067), 2021/3/12, Oxford, UK (online)
 
