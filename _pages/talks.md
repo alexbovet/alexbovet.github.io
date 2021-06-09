@@ -11,6 +11,8 @@ classes: wide
 
 Flow stability for dynamic community detection, [ComNet@Networks2021](https://hocinecherifi.wixsite.com/comnets2021/), 2021/7/1, online.
 
+Twitter influencers and increased polarization during two U.S. presidential elections, [Political Communication Networks@Networks2021](https://pcnetworkshop.wordpress.com/), 2021/6/24, online.
+
 **Invited** Diffusion in social networks, [Computational Social Science team](https://cmb.huma-num.fr/) seminars, Centre Marc Bloch, 2020/04/21, Berlin, Germany (postponed due to COVID-19).
 
 ### Past
