@@ -2,9 +2,8 @@
 title: Talk at Complex Networks 2021
 ---
 
-I am very happy to announce that I will be giving a talk at the [Communities in Networks](https://hocinecherifi.wixsite.com/comnets2021) satellite of the Joint Sunbelt and NetSci conference [Networks 2021](https://networks2021.net/) on July 01, 2021.
+I will be giving a talk at the [10th International Conference on Complex Networks and their Applications](https://complexnetworks.org/) about my work with Peter Grindrod on the structure and evolution of the UK far-right Telegram network. The conference will take place in Madrid from November 11th to December 12th 2021.
 
-I will present my new paper [*Flow stability for dynamic community detection*](https://arxiv.org/abs/2101.06131).
 
 
 
