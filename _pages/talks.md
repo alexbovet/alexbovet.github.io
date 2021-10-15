@@ -9,13 +9,17 @@ classes: wide
 
 ### Upcoming and recent
 
-Flow stability for dynamic community detection, [ComNet@Networks2021](https://hocinecherifi.wixsite.com/comnets2021/), 2021/7/1, online.
+Structure and evolution of the UK far-right Telegram network, [The 10th International Conference on Complex Networks and their Applications](https://complexnetworks.org/), 2021/11/30-2021/12/02, Madrid, Spain
 
-Twitter influencers and increased polarization during two U.S. presidential elections, [Political Communication Networks@Networks2021](https://pcnetworkshop.wordpress.com/), 2021/6/24, online.
+Flow stability for dynamic community detection, [Conference on Complex Systems 2021](https://ccs2021.univ-lyon1.fr/), 2021/10/26, online.
 
 **Invited** Diffusion in social networks, [Computational Social Science team](https://cmb.huma-num.fr/) seminars, Centre Marc Bloch, 2020/04/21, Berlin, Germany (postponed due to COVID-19).
 
 ### Past
+
+Flow stability for dynamic community detection, [ComNet@Networks2021](https://hocinecherifi.wixsite.com/comnets2021/), 2021/7/1, online.
+
+Twitter influencers and increased polarization during two U.S. presidential elections, [Political Communication Networks@Networks2021](https://pcnetworkshop.wordpress.com/), 2021/6/24, online.
 
 **Invited** [Oxford Mathematical Institute Networks Seminar](https://www.maths.ox.ac.uk/groups/networks/networks-seminar), 2021/5/25, Oxford, UK (online)
 
