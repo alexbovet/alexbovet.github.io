@@ -25,4 +25,4 @@ I also investigated the spread of diseases in a contact network of a population 
 
 I received my PhD in physics from [EPFL](http://www.epfl.ch) in Lausanne, Switzerland, where I was working on the [transport of particles in turbulent](https://infoscience.epfl.ch/record/205009) [plasmas](https://en.wikipedia.org/wiki/Plasma_(physics)) with [Prof. Ambrogio Fasoli](https://people.epfl.ch/ambrogio.fasoli) and [Prof. Ivo Furno](https://people.epfl.ch/ivo.furno) as supervisors.
 
-You can find a list of my publications on [Google Scholar](https://scholar.google.com/citations?user=rbHfk1EAAAAJ&hl=en)
+You can find a list of my publications on [Google Scholar](https://scholar.google.com/citations?user=rbHfk1EAAAAJ&hl=en) and my CV [here](/assets/images/CV_ABovet_online.pdf).
