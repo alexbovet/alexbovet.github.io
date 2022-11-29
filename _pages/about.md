@@ -7,15 +7,12 @@ classes: wide
 
 I am a researcher interested in [complex systems](https://en.wikipedia.org/wiki/Complex_systems) and in their 
 modelling using [complex networks](https://en.wikipedia.org/wiki/Complex_network).
-I am interested in interdisciplinary approaches to answer social and economic questions using tools from 
-physics and data science.
+I am interested in interdisciplinary approaches and the development of new mathematical tools to answer social, biological and economic questions.
 
 In particular, I am interested by the following topics:
 
-- Temporal networks: dynamic community detection, dynamics of social networks
-- Information and opinion diffusion: influence of misinformation, mechanism of opinion formation and diffusion
-- Data science: clustering algorithms for dynamical data, opinion mining, causality discovery
-
+- Social media and their impact on society: disinformation, social dynamics, media, democracy.
+- Network science: dynamic community detection, dynamics-based methods for temporal networks.
 
 I am an Assistant Professor of Quantitative Network Science at the [Department of Mathematics](https://www.math.uzh.ch/index.php?id=people&key1=29549) and a member of the [Digital Society Initiative](https://www.dsi.uzh.ch/) at the [University of Zurich](https://www.uzh.ch/cmsssl/en.html).
 
