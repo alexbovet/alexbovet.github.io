@@ -16,7 +16,7 @@ classes: wide
 ### Past
 -->
 
-**Keynote** Uncovering the multiscale dynamics of temporal networks, [The International Conference on Complex Networks (CompleNet2023)](https://complenet.weebly.com/), 2023/04/25, Aveiro, Portugal. [Slides avaiable here](/assets/images/2023CompleNet_KeyNote_ABovet.pdf)
+**Keynote** Uncovering the multiscale dynamics of temporal networks, [The International Conference on Complex Networks (CompleNet2023)](https://complenet.weebly.com/), 2023/04/25, Aveiro, Portugal. [Slides available here](/assets/images/2023CompleNet_KeyNote_ABovet.pdf)
 
 
 Structure and evolution of the UK far-right Telegram network, [The 10th International Conference on Complex Networks and their Applications](https://complexnetworks.org/), 2021/11/30-2021/12/02, Madrid, Spain
