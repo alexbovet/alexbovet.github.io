@@ -16,6 +16,14 @@ classes: wide
 ### Past
 -->
 
+**Invited** Computational Social Science Seminar at ETH Zurich, invited by Prof. Dirk Helbing, 2023/10
+
+**Invited** Biology Department Seminar of the University of Fribourg, invited by Prof. Adria LeBoeuf, 2023/09
+
+Swiss Center for Data + Network Sciences Workshop, University of Zurich, 2023/09
+
+[DSI Democracy Community](https://democracy.dsi.uzh.ch/) Brownbag session, University of Zurich, 2023/05
+
 **Keynote** Uncovering the multiscale dynamics of temporal networks, [The International Conference on Complex Networks (CompleNet2023)](https://complenet.weebly.com/), 2023/04/25, Aveiro, Portugal. [Slides available here](/assets/images/2023CompleNet_KeyNote_ABovet.pdf)
 
 
