@@ -14,7 +14,7 @@ In particular, I am interested by the following topics:
 - Social media and their impact on society: disinformation, social dynamics, media, democracy.
 - Network science: dynamic community detection, dynamics-based methods for temporal networks.
 
-I am an Assistant Professor of Quantitative Network Science at the [Department of Mathematics](https://www.math.uzh.ch/index.php?id=people&key1=29549) and a member of the [Digital Society Initiative](https://www.dsi.uzh.ch/) at the [University of Zurich](https://www.uzh.ch/cmsssl/en.html).
+I am an Assistant Professor of Quantitative Network Science at the [Department of Mathematical Modeling and Machine Learning](https://dm3l.uzh.ch/) and a member of the [Digital Society Initiative](https://www.dsi.uzh.ch/) at the [University of Zurich](https://www.uzh.ch/cmsssl/en.html).
 
 
 Before that, I was a  Postdoctoral Research Associate in the Mathematics of Social Systems and Applications to Public Policy at the [Mathematical Institute](https://www.maths.ox.ac.uk/) at Oxford University, in the [Mathematical Data Science group](https://www.maths.ox.ac.uk/groups/data-science) with [Prof. Peter Grindrod](https://www.maths.ox.ac.uk/people/peter.grindrod).
