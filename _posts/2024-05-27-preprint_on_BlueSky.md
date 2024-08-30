@@ -1,5 +1,5 @@
 ---
-title: Bluesky:: Network Topology, Polarization, and Algorithmic Curation
+title: Network Topology, Polarization, and Algorithmic Curation in BlueSky
 ---
 
 My student, Dorian Quelle and I just published a [preprint](https://arxiv.org/abs/2405.17571) of our recent work on the novel social media platform BlueSky.
