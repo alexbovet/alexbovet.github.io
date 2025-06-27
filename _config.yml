@@ -107,7 +107,7 @@ author:
   bio              : "Researcher investigating complex systems and complex networks."
   location         : "Zurich, Switzerland"
   #email            : "https://www.maths.ox.ac.uk/people/alexandre.bovet/contact"
-  uri              : "https://www.math.uzh.ch/index.php?id=people&key1=29549"
+  uri              : "https://dm3l.uzh.ch/bovet/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
